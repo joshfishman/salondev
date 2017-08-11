@@ -153,7 +153,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/model.jpg");
+  background-image: url("../img/pinksalon.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -169,7 +169,8 @@ header.masthead {
       font-weight: 700;
       margin-top: 0;
       margin-bottom: 0;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      color: black; }
     header.masthead .header-content .header-content-inner hr {
       margin: 30px auto; }
     header.masthead .header-content .header-content-inner p {
